@@ -1,0 +1,8 @@
+streamlit==1.49.1
+ollama==0.5.3
+llama-index==0.14.0
+llama-index-llms-ollama==0.7.2
+pymongo==4.14.1
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-dotenv==1.1.1

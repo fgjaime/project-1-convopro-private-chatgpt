@@ -144,11 +144,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder project settings.py
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope project settings.py
 .ropeproject
 
 # mkdocs documentation
@@ -173,11 +173,11 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
 
 # Abstra
 # Abstra is an AI-powered process automation framework.
-# Ignore directories containing user credentials, local state, and settings.
+# Ignore directories containing user credentials, local state, and settings.py.
 # Learn more at https://abstra.io/docs
 .abstra/
 
