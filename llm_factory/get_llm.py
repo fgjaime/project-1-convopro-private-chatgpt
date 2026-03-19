@@ -18,6 +18,6 @@ def get_ollama_llm(model_name: str):
     return _current_llm_instance
 
 # Example of usage
-check_llm = get_ollama_llm(model_name="llama3:latest")
-print(check_llm)
-print(type(check_llm))
+# check_llm = get_ollama_llm(model_name="llama3:latest")
+# print(check_llm)
+# print(type(check_llm))
